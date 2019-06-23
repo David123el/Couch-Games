@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_Screen_Scene.unity
+    guid: bd879120c62350941bf1ae3169bbca1e
+  - enabled: 0
+    path: Assets/Scenes/White_Screen_Scene.unity
+    guid: e46bd8599c93763469f746fd5685e8dd
+  - enabled: 1
+    path: Assets/Scenes/Strike_Out_Scene.unity
+    guid: 66be212fbb3cc984eaa1e152e2b3bde5
+  - enabled: 1
+    path: Assets/Scenes/Mondial_Scene.unity
+    guid: d65b7ed4620befc4bb01a7d0e8c10e6a
+  - enabled: 1
+    path: Assets/Scenes/National_Geographic_Scene.unity
+    guid: c298a328d2d894e4aae74a9a31d18457
+  - enabled: 1
+    path: Assets/Scenes/Cooking_Program_Scene.unity
+    guid: 9858743d3a3226e42a2d2f395e284b63
+  - enabled: 1
+    path: Assets/Scenes/Cleaning_The_Streets_Scene.unity
+    guid: 6d87582bce4e2be468fbb3ae39e4406c
+  - enabled: 1
+    path: Assets/Scenes/Weather_Scene.unity
+    guid: 01aca124c42a314418f1358e31cd55a5
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard_Scene.unity
+    guid: 76db73b035269554c86c8e3029283fa4
+  m_configObjects: {}
